@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kids Maths</string>
+    <string name="action_submit">Submit Answers</string>
+    <string name="activity_main_title">Kids - Maths</string>
+    <string name="activity_question_title">Questions</string>
+    <string name="activity_result_title">Result</string>
+
+    <string name="level_prompt">Choose a level</string>
+    <string-array name="level_arrays">
+        <item>Level 1 - Addition (1-10)</item>
+        <item>Level 2 - Addition (1-100)</item>
+        <item>Level 3 - Addition (1-1000)</item>
+
+    </string-array>
+
+    <string name="count_prompt">Choose count of questions</string>
+    <string-array name="count_arrays">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+
+</resources>
